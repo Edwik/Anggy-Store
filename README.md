@@ -1,2 +1,2 @@
-# Anggy-Store
+# Store Project
 Anggy | Project to Learn ReactJS
